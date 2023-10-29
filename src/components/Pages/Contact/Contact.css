@@ -1,0 +1,12 @@
+.contact-banner{
+    background-image: linear-gradient(to right, #7299fe , #b57aff);
+}
+.contact-text{
+    background-image: linear-gradient(to right, #1044c7 , #8358b8);
+}
+.contact-email{
+    background-image: linear-gradient(to right, #10c7c7 , #58b868);
+}
+.contact-address{
+    background-image: linear-gradient(to right, #b5c710 , #58b8ab);
+}

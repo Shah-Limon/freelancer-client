@@ -1,0 +1,26 @@
+.admin-dashboard{
+    background-color: rgb(209, 208, 208);
+}
+.orders-list{
+    font-size: 15px;
+    text-align: left;
+    margin: -2px;
+}
+.dashboard-provider-card{
+    background-image: linear-gradient(to right, #7299fe , #b57aff);
+}
+.dashboard-service-card{
+    background-image: linear-gradient(to right, #fe72e0 , #7c375a);
+}
+.dashboard-sale-card{
+    background-image: linear-gradient(to right, #72fe89 , #108571);
+}
+.dashboard-client-card{
+    background-image: linear-gradient(to right, #fe72f7 , #ee8bb1);
+}
+.dashboard-revenue-card{
+    background-image: linear-gradient(to right, #8db7f7 , #1713eb);
+}
+.dashboard-transaction-card{
+    background-image: linear-gradient(to right, #f17c0e , #eb8d13);
+}

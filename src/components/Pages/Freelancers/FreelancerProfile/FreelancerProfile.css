@@ -1,0 +1,118 @@
+
+.provider-profile{
+    background-color:antiquewhite;
+}
+
+.profile img{
+    width: 200px;
+    height: 220px;
+    border: 10px solid rgb(27, 28, 29);
+    border-radius: 40%;
+}
+.profile-info{
+    margin-left: 20px;
+}
+.profile{
+    border: 2px solid skyblue;
+}
+.portfolio{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 5px;
+}
+.freelancer-name{
+    background-color: #283387;
+    padding: 10px;
+    color: white;
+}
+
+
+.portfolio img{
+    width: 450px;
+    height: 350px;
+}
+.user-services{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.profile-service-img{
+    width: 200px;
+    height: 170px;
+
+}
+.profile-service-img:hover{
+    border: 3px solid green;
+}
+
+.marketplace{
+    
+    margin-top: 20px;
+}
+.marketplace p{
+    text-align: left;
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.marketplace h3{
+    color: white;
+    font-size: 17px;
+
+    
+}
+.marketplace h5{
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    
+}
+.working{
+    background-color: #283387;
+    padding: 15px;
+}
+.working h5{
+    text-align: center;
+}
+
+.Verified .fa-solid{
+    color: white;
+    background-color:green;
+    border-radius: 50%;
+    padding: 5px;
+    font-size: 10px;
+}
+.review{
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+@media only screen and (max-width: 1000px) {
+    .freelancer-profile{
+        flex-direction: column;
+    }
+    .profile img{
+        width: 70%;
+    }
+    .portfolio{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+
+    }
+    .portfolio img{
+        width: 250px;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 600px) {
+    
+    .user-services{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width: 601px) and (max-width: 1000px) {
+
+    .user-services{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

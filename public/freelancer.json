@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name" : "Zuhin Mollah",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    },
+
+    {
+        "id": 2,
+        "name" : "Hasan Masud",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    },
+
+    {
+        "id": 3,
+        "name" : "Mosarrof Karim",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    },
+
+    {
+        "id": 4,
+        "name" : "Abu Zuhin Meya",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    },
+
+    {
+        "id": 5,
+        "name" : "Mister Omar Khan",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    },
+
+    {
+        "id": 6,
+        "name" : "Mister Omar Khan",
+        "about": "Economical rechargeable power drills cordless electric drilling machines drill bit. 48VF configuration: One machine, two 48VF battery chargers",
+        "img": "https://i.ibb.co/j4PtRS0/seo-seo.jpg"
+    }
+]

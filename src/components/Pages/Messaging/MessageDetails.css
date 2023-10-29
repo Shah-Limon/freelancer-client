@@ -1,0 +1,9 @@
+.provider-name{
+    margin-left: 10px;
+    font-weight: bold;
+    margin-top: 5px solid skyblue;
+}
+.client-name{
+    margin-right: 10px;
+    font-weight: bold;
+}

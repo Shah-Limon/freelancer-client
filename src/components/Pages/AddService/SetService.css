@@ -1,0 +1,20 @@
+.marketing-methods img{
+    margin: 15px;
+    border-radius: 15px;
+    width: 300px ;
+    height: 300px;
+    border: 2px solid skyblue;
+}
+.marketing-methods img:hover{
+    border: 2px solid blue;
+}
+.categoris{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+@media only screen and (min-width: 300px) and (max-width: 800px) {
+    .marketing-methods{
+        flex-direction: column;
+    }
+   }

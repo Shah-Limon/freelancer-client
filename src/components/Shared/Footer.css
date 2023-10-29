@@ -1,0 +1,29 @@
+/* .footer{
+    background-color: #283387;
+    padding-top: 30px;
+    padding-bottom: 30px;
+ 
+}
+.footer-logo{
+    width: 300px;
+}
+.social-icons .fa-brands{
+    font-size: 50px;
+    margin-left: 15px;
+    color: skyblue;
+}
+.menu-list li{
+    list-style-type: none; 
+}
+.social-icons .fa-brands:hover{
+    color: rgb(233, 113, 113);
+}
+.menu-list a{
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 600px){
+    .footer-container{
+        flex-direction: column;
+    }
+} */

@@ -1,0 +1,45 @@
+.banner{
+    background-color: #e1f1fa;
+}
+.banner img{
+    width: 300px;
+    border-radius: 15px;
+    border: 2px solid skyblue;
+}
+Button{
+    margin-left: 15px;
+}
+Button p{
+   padding: 0px;
+    display: flex;
+    align-items: center;
+}
+h1{
+    font-size: 55px;
+    font-family: 'Bakbak One', cursive;
+    color: #3F3F3F;
+}
+h5{
+    font-family: 'Bakbak One', cursive;
+    color: #3F3F3F;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 1000px) {
+    .banner-container{
+        flex-direction: column;
+    }
+    .banner-img{
+        margin-top: 20px;
+    }
+  }
+@media only screen and (min-width: 300px) and (max-width: 600px) {
+   h1{
+    font-size: 30px;
+   }
+   h5{
+    font-size: 15px;
+   }
+   .banner-container{
+    flex-direction: column;
+}
+  }
